@@ -5,8 +5,9 @@ This is Jolyn and Rahim from group 37squared. This is our submission for SCDFXIB
 (c)
 (d)https://docs.google.com/document/d/16M-2XudspKg7or-WfGNj5BcSUwfljVRpt4NpzPZY74E/edit?usp=sharing
 (f) 1. Upload the json file obtained from the repository into node-red to see the flow sequence proposed for the project
-    2. Download the object detection model from the repository, named project37. 
+    2. Download the object detection model from the repository, named model-mglbszqr.zip. 
     3. Using cacli.exe, run and train the object detection model.
+    4. Project37 zip file contains all the images used to train the model.
     
 (i)# IBM Cloud Tools Used for Solution 
 ..*Watson Speech to Text
